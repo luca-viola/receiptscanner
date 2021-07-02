@@ -36,7 +36,7 @@ public class Main
   {
 //    JdkImageLoader jiad=new JdkImageLoader();
     PlatformImageLoader jiad=PlatformImageLoaderFactory.getInstance();
-    String resourceName= "scontrino7.png";
+    String resourceName= "scontrino1.jpg";
     URL url = ReceiptScanner.class.getClassLoader().getResource(resourceName);
 
     log.info("Receipt scanner 1.0 by Luca Viola");
