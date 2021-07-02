@@ -15,32 +15,53 @@ More in detail, it works by:
 - converts the deskwed image to grey colors and sharpens the image with an adaptive threshold to mimic a black and white photocopy effect
 
 ## Steps
-![Step 1](step_1.jpg)
+
+--
 1- Original image
 
-![Step 2](step_2.jpg)
-2- Gray scale conversion on resized buffer image 
+![Step 1](images/step_1.jpg)
 
-![Step 3](step_3.jpg)
-3- Blur to smoothen canny edge detector and remove artifacts  
 
-![Step 4](step_4.jpg)
-4- Canny edge to identify the lines enclosing convex polygons.
-We are interested in those with 4 sides (rectangles)
+--
+2- Gray scale conversion on resized buffer image
 
-![Step 5](step_5.jpg)
-5- Find contours, with canny edge it's easy to identify the
-largest 4 sides polygon in the image
+![Step 2](images/step_2.jpg)
 
-![Step 6](step_6.jpg)
-6- Deskew (rotation and perspective adjustement) 
 
-![Step 7](step_7.jpg)
-7- Black and white and threshold, to emulate a "photocopy effect"
-that enhances text readability
+--
+3- Blur to smoothen canny edge detector and remove artifacts
 
-![Step 8](step_8.jpg)
-8- (Optional) using an ocr such us tesseract on the output
-you can get a very good text back.
+![Step 3](images/step_3.jpg)
+
+
+--
+4- Canny edge to identify the lines enclosing convex polygons. We are interested in those with 4 sides (rectangles)
+
+![Step 4](images/step_4.jpg)
+
+
+--
+5- Find contours, with canny edge it's easy to identify the largest 4 sides polygon in the image
+
+![Step 5](images/step_5.jpg)
+
+
+--
+6- Deskew (rotation and perspective adjustement)
+
+![Step 6](images/step_6.jpg)
+
+
+--
+7- Black and white and threshold, to emulate a "photocopy effect" that enhances text readability
+
+![Step 7](images/step_7.jpg)
+
+
+--
+8- (Optional) using an ocr such us tesseract on the output you can get a very good text back:
 
 `$ tesseract -l ita /tmp/output.png out`
+
+![Step 8](images/step_8.jpg)
+
