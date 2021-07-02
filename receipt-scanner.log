@@ -1,0 +1,233 @@
+[2016-01-24 01:38:02] INFO  Main:43 - Receipt scanner 1.0 by Luca Viola
+[2016-01-24 01:38:02] INFO  Main:47 - scanning scontrino1.jpg..
+[2016-01-24 01:38:04] INFO  Main:52 - File saved in /tmp/output.png
+[2016-01-24 01:39:05] INFO  Main:43 - Receipt scanner 1.0 by Luca Viola
+[2016-01-24 01:39:05] INFO  Main:47 - scanning scontrino2.jpg..
+[2016-01-24 01:39:07] INFO  Main:52 - File saved in /tmp/output.png
+[2016-01-24 01:39:28] INFO  Main:43 - Receipt scanner 1.0 by Luca Viola
+[2016-01-24 01:39:28] INFO  Main:47 - scanning scontrino3.jpg..
+[2016-01-24 01:39:29] INFO  Main:52 - File saved in /tmp/output.png
+[2016-01-24 01:39:49] INFO  Main:43 - Receipt scanner 1.0 by Luca Viola
+[2016-01-24 01:40:09] INFO  Main:43 - Receipt scanner 1.0 by Luca Viola
+[2016-01-24 01:40:09] INFO  Main:47 - scanning scontrino4a.jpg..
+[2016-01-24 01:40:10] INFO  Main:52 - File saved in /tmp/output.png
+[2016-01-24 01:40:26] INFO  Main:43 - Receipt scanner 1.0 by Luca Viola
+[2016-01-24 01:40:26] INFO  Main:47 - scanning scontrino4b.jpg..
+[2016-01-24 01:40:28] INFO  Main:52 - File saved in /tmp/output.png
+[2016-01-24 01:40:59] INFO  Main:43 - Receipt scanner 1.0 by Luca Viola
+[2016-01-24 01:40:59] INFO  Main:47 - scanning scontrino4c.jpg..
+[2016-01-24 01:41:00] INFO  Main:52 - File saved in /tmp/output.png
+[2016-01-24 01:41:43] INFO  Main:43 - Receipt scanner 1.0 by Luca Viola
+[2016-01-24 01:41:43] INFO  Main:47 - scanning scontrino5.jpg..
+[2016-01-24 01:41:44] INFO  Main:52 - File saved in /tmp/output.png
+[2016-01-24 18:07:28] INFO  Main:43 - Receipt scanner 1.0 by Luca Viola
+[2016-01-24 18:07:28] INFO  Main:47 - scanning scontrino5.jpg..
+[2016-01-24 18:07:30] INFO  Main:52 - File saved in /tmp/output.png
+[2016-01-28 10:15:43] INFO  Main:43 - Receipt scanner 1.0 by Luca Viola
+[2016-01-28 10:15:43] INFO  Main:47 - scanning scontrino5.jpg..
+[2016-01-28 10:15:45] INFO  Main:52 - File saved in /tmp/output.png
+[2016-01-28 10:18:00] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-01-28 10:18:00] INFO  Main:46 - scanning scontrino1.jpg..
+[2016-01-28 10:18:01] INFO  Main:51 - File saved in /tmp/output.png
+[2016-01-28 10:18:22] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-01-28 10:18:22] INFO  Main:46 - scanning scontrino2.jpg..
+[2016-01-28 10:18:23] INFO  Main:51 - File saved in /tmp/output.png
+[2016-01-28 10:19:49] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-01-28 10:19:49] INFO  Main:45 - scanning scontrino2.jpg..
+[2016-01-28 10:19:50] INFO  Main:50 - File saved in /tmp/output.png
+[2016-01-28 10:20:35] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-01-28 10:20:35] INFO  Main:45 - scanning scontrino2.jpg..
+[2016-01-28 10:20:36] INFO  Main:50 - File saved in /tmp/output.png
+[2016-01-28 10:20:54] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-01-28 10:20:54] INFO  Main:45 - scanning scontrino2.jpg..
+[2016-01-28 10:20:55] INFO  Main:50 - File saved in /tmp/output.png
+[2016-01-28 10:55:41] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-01-28 10:55:41] INFO  Main:45 - scanning scontrino2.jpg..
+[2016-01-28 10:55:43] INFO  Main:50 - File saved in /tmp/output.png
+[2016-01-28 10:55:48] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-01-28 10:55:48] INFO  Main:45 - scanning scontrino2.jpg..
+[2016-01-28 10:55:49] INFO  Main:50 - File saved in /tmp/output.png
+[2016-01-28 11:12:33] INFO  Main:43 - Receipt scanner 1.0 by Luca Viola
+[2016-01-28 11:15:17] INFO  Main:43 - Receipt scanner 1.0 by Luca Viola
+[2016-01-28 11:15:17] INFO  Main:46 - scanning scontrino2.jpg..
+[2016-01-28 11:15:18] INFO  Main:51 - File saved in /tmp/output.png
+[2016-01-28 11:31:25] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-01-28 11:31:25] INFO  Main:45 - scanning scontrino2.jpg..
+[2016-01-28 11:31:27] INFO  Main:50 - File saved in /tmp/output.png
+[2016-01-28 16:56:49] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-01-28 16:56:49] INFO  Main:45 - scanning scontrino2.jpg..
+[2016-01-28 16:56:51] INFO  Main:50 - File saved in /tmp/output.png
+[2016-02-11 23:08:29] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-02-11 23:08:29] INFO  Main:45 - scanning scontrino2.jpg..
+[2016-02-11 23:08:31] INFO  Main:50 - File saved in /tmp/output.png
+[2016-02-11 23:12:21] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-02-11 23:12:21] INFO  Main:45 - scanning scontrino2.jpg..
+[2016-02-11 23:12:22] INFO  Main:50 - File saved in /tmp/output.png
+[2016-02-11 23:12:43] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-02-11 23:12:43] INFO  Main:45 - scanning scontrino3.jpg..
+[2016-02-11 23:12:44] INFO  Main:50 - File saved in /tmp/output.png
+[2016-04-29 11:16:26] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-04-29 11:16:26] INFO  Main:45 - scanning scontrino3.jpg..
+[2016-04-29 11:16:28] INFO  Main:50 - File saved in /tmp/output.png
+[2016-04-29 11:17:42] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-04-29 11:17:42] INFO  Main:45 - scanning kanban.png..
+[2016-04-29 11:17:44] INFO  Main:50 - File saved in /tmp/output.png
+[2016-04-29 11:18:20] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-04-29 11:18:20] INFO  Main:45 - scanning kanban.png..
+[2016-04-29 11:18:22] INFO  Main:50 - File saved in /tmp/output.png
+[2016-04-29 11:22:37] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-04-29 11:22:37] INFO  Main:45 - scanning kanban.jpg..
+[2016-04-29 11:22:39] INFO  Main:50 - File saved in /tmp/output.png
+[2016-05-03 21:37:26] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-05-03 21:37:26] INFO  Main:45 - scanning scontrino1.jpg..
+[2016-05-03 21:37:28] INFO  Main:50 - File saved in /tmp/output.png
+[2016-05-03 21:38:06] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-05-03 21:38:06] INFO  Main:45 - scanning scontrino3.jpg..
+[2016-05-03 21:38:07] INFO  Main:50 - File saved in /tmp/output.png
+[2016-09-26 19:14:02] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-09-26 19:14:02] INFO  Main:45 - scanning scontrino3.jpg..
+[2016-09-26 19:14:03] INFO  Main:50 - File saved in /tmp/output.png
+[2016-09-26 19:17:49] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-09-26 19:17:49] INFO  Main:45 - scanning scontrino3.jpg..
+[2016-09-26 19:17:50] INFO  Main:50 - File saved in /tmp/output.png
+[2016-09-26 19:18:33] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-09-26 19:18:33] INFO  Main:45 - scanning scontrino1.jpg..
+[2016-09-26 19:18:35] INFO  Main:50 - File saved in /tmp/output.png
+[2016-09-26 19:18:59] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-09-26 19:18:59] INFO  Main:45 - scanning scontrino2.jpg..
+[2016-09-26 19:19:01] INFO  Main:50 - File saved in /tmp/output.png
+[2016-09-26 19:19:44] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-09-26 19:19:45] INFO  Main:45 - scanning scontrino5.jpg..
+[2016-09-26 19:19:46] INFO  Main:50 - File saved in /tmp/output.png
+[2016-09-26 19:20:40] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-09-26 19:20:40] INFO  Main:45 - scanning scontrino4c.jpg..
+[2016-09-26 19:20:42] INFO  Main:50 - File saved in /tmp/output.png
+[2016-09-26 19:21:02] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-09-26 19:21:02] INFO  Main:45 - scanning scontrino4b.jpg..
+[2016-09-26 19:21:04] INFO  Main:50 - File saved in /tmp/output.png
+[2016-09-26 19:22:19] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-09-26 19:22:19] INFO  Main:45 - scanning scontrino4a.jpg..
+[2016-09-26 19:22:21] INFO  Main:50 - File saved in /tmp/output.png
+[2016-09-26 19:24:06] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-09-26 19:24:06] INFO  Main:45 - scanning scontrino4b.jpg..
+[2016-09-26 19:24:08] INFO  Main:50 - File saved in /tmp/output.png
+[2016-09-26 19:27:54] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-09-26 19:27:54] INFO  Main:45 - scanning scontrino4aa.jpg..
+[2016-09-26 19:27:55] INFO  Main:50 - File saved in /tmp/output.png
+[2016-09-26 19:28:14] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-09-26 19:28:14] INFO  Main:45 - scanning scontrino4a.jpg..
+[2016-09-26 19:28:15] INFO  Main:50 - File saved in /tmp/output.png
+[2016-09-26 19:28:27] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-09-26 19:28:27] INFO  Main:45 - scanning kanban.jpg..
+[2016-09-26 19:28:28] INFO  Main:50 - File saved in /tmp/output.png
+[2016-10-27 21:11:08] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2016-10-27 21:11:09] INFO  Main:45 - scanning kanban.jpg..
+[2016-10-27 21:11:10] INFO  Main:50 - File saved in /tmp/output.png
+[2017-10-05 14:00:02] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2017-10-05 14:00:48] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2017-10-05 14:07:05] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2017-10-05 14:07:49] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2017-10-05 14:07:49] INFO  Main:45 - scanning scontrino1.jpg..
+[2017-10-05 14:07:51] INFO  Main:50 - File saved in /tmp/output.png
+[2017-10-05 14:08:15] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2017-10-05 14:08:15] INFO  Main:45 - scanning scontrino2.jpg..
+[2017-10-05 14:08:16] INFO  Main:50 - File saved in /tmp/output.png
+[2017-10-05 14:08:32] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2017-10-05 14:08:32] INFO  Main:45 - scanning scontrino3.jpg..
+[2017-10-05 14:08:33] INFO  Main:50 - File saved in /tmp/output.png
+[2017-10-05 14:09:02] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2017-10-05 14:09:02] INFO  Main:45 - scanning scontrino4a.jpg..
+[2017-10-05 14:09:03] INFO  Main:50 - File saved in /tmp/output.png
+[2017-10-05 14:09:33] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2017-10-05 14:09:33] INFO  Main:45 - scanning scontrino4b.jpg..
+[2017-10-05 14:09:34] INFO  Main:50 - File saved in /tmp/output.png
+[2017-10-05 14:10:07] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2017-10-05 14:10:07] INFO  Main:45 - scanning scontrino4c.jpg..
+[2017-10-05 14:10:08] INFO  Main:50 - File saved in /tmp/output.png
+[2017-10-05 14:10:20] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2017-10-05 14:10:20] INFO  Main:45 - scanning scontrino5.jpg..
+[2017-10-05 14:10:21] INFO  Main:50 - File saved in /tmp/output.png
+[2017-10-05 14:10:50] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2017-10-05 14:10:50] INFO  Main:45 - scanning scontrino5.jpg..
+[2017-10-05 14:10:52] INFO  Main:50 - File saved in /tmp/output.png
+[2017-10-05 14:11:23] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2017-10-05 14:11:23] INFO  Main:45 - scanning scontrino5.jpg..
+[2017-10-05 14:11:24] INFO  Main:50 - File saved in /tmp/output.png
+[2017-10-05 14:12:11] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2017-10-05 14:12:11] INFO  Main:45 - scanning scontrino4a.jpg..
+[2017-10-05 14:12:12] INFO  Main:50 - File saved in /tmp/output.png
+[2017-10-05 14:16:39] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2017-10-05 14:16:56] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2017-10-05 14:16:56] INFO  Main:45 - scanning scontrino4d.png..
+[2017-10-05 14:16:57] INFO  Main:50 - File saved in /tmp/output.png
+[2017-10-05 14:18:07] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2017-10-05 14:18:07] INFO  Main:45 - scanning scontrino4d.png..
+[2017-10-05 14:18:08] INFO  Main:50 - File saved in /tmp/output.png
+[2017-11-16 09:22:45] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2017-11-16 09:23:08] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2017-11-16 09:23:22] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2017-11-16 09:23:22] INFO  Main:45 - scanning scontrino5.jpg..
+[2017-11-16 09:23:23] INFO  Main:50 - File saved in /tmp/output.png
+[2017-11-16 09:23:57] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2017-11-16 09:23:57] INFO  Main:45 - scanning scontrino1.jpg..
+[2017-11-16 09:23:58] INFO  Main:50 - File saved in /tmp/output.png
+[2017-11-16 10:34:39] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2017-11-16 10:34:39] INFO  Main:45 - scanning scontrino3.jpg..
+[2017-11-16 10:34:40] INFO  Main:50 - File saved in /tmp/output.png
+[2017-11-16 10:35:50] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2017-11-16 10:35:50] INFO  Main:45 - scanning scontrino3.jpg..
+[2017-11-16 10:35:51] INFO  Main:50 - File saved in /tmp/output.png
+[2018-05-29 18:09:37] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2018-05-29 18:09:37] INFO  Main:45 - scanning scontrino3.jpg..
+[2018-05-29 18:09:39] INFO  Main:50 - File saved in /tmp/output.png
+[2018-05-29 18:10:12] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2018-05-29 18:10:12] INFO  Main:45 - scanning scontrino5.jpg..
+[2018-05-29 18:10:14] INFO  Main:50 - File saved in /tmp/output.png
+[2018-05-29 18:11:03] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2018-05-29 18:11:03] INFO  Main:45 - scanning scontrino4c.jpg..
+[2018-05-29 18:11:05] INFO  Main:50 - File saved in /tmp/output.png
+[2018-05-29 18:12:30] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2018-05-29 18:12:30] INFO  Main:45 - scanning scontrino4a.jpg..
+[2018-05-29 18:12:32] INFO  Main:50 - File saved in /tmp/output.png
+[2018-07-25 11:11:38] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2018-07-25 11:11:39] INFO  Main:45 - scanning scontrino1.jpg..
+[2018-07-25 11:11:41] INFO  Main:50 - File saved in /tmp/output.png
+[2018-07-25 11:12:38] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2018-07-25 11:12:38] INFO  Main:45 - scanning scontrino3.jpg..
+[2018-07-25 11:12:40] INFO  Main:50 - File saved in /tmp/output.png
+[2018-07-25 15:04:12] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2018-07-25 15:04:12] INFO  Main:45 - scanning scontrino6.jpg..
+[2018-07-25 15:04:14] INFO  Main:50 - File saved in /tmp/output.png
+[2018-07-25 15:04:52] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2018-07-25 15:04:52] INFO  Main:45 - scanning scontrino6.jpg..
+[2018-07-25 15:04:54] INFO  Main:50 - File saved in /tmp/output.png
+[2018-07-25 15:07:17] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2018-07-25 15:07:17] INFO  Main:45 - scanning scontrino6.jpg..
+[2018-07-25 15:07:19] INFO  Main:50 - File saved in /tmp/output.png
+[2021-07-02 11:29:36] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2021-07-02 11:29:37] INFO  Main:45 - scanning scontrino6.jpg..
+[2021-07-02 11:29:37] INFO  Main:50 - File saved in /tmp/output.png
+[2021-07-02 11:30:25] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2021-07-02 11:30:44] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2021-07-02 11:30:45] INFO  Main:45 - scanning scontrino4a.jpg..
+[2021-07-02 11:30:45] INFO  Main:50 - File saved in /tmp/output.png
+[2021-07-02 11:31:01] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2021-07-02 11:31:01] INFO  Main:45 - scanning scontrino3.jpg..
+[2021-07-02 11:31:02] INFO  Main:50 - File saved in /tmp/output.png
+[2021-07-02 11:34:09] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2021-07-02 11:34:10] INFO  Main:45 - scanning scontrino2.jpg..
+[2021-07-02 11:34:10] INFO  Main:50 - File saved in /tmp/output.png
+[2021-07-02 11:35:38] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2021-07-02 11:35:39] INFO  Main:45 - scanning scontrino4c.jpg..
+[2021-07-02 11:35:39] INFO  Main:50 - File saved in /tmp/output.png
+[2021-07-02 11:45:12] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2021-07-02 11:45:13] INFO  Main:45 - scanning scontrino6.jpg..
+[2021-07-02 11:45:13] INFO  Main:50 - File saved in /tmp/output.png
+[2021-07-02 12:00:25] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2021-07-02 12:01:16] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2021-07-02 12:01:33] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2021-07-02 12:01:33] INFO  Main:45 - scanning scontrino7.png..
+[2021-07-02 12:01:34] INFO  Main:50 - File saved in /tmp/output.png
+[2021-07-02 12:49:43] INFO  Main:42 - Receipt scanner 1.0 by Luca Viola
+[2021-07-02 12:49:43] INFO  Main:45 - scanning scontrino7.png..
+[2021-07-02 12:49:43] INFO  Main:50 - File saved in /tmp/output.png
