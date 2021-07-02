@@ -14,7 +14,7 @@ More in detail, it works by:
 - deskews the rectangle to straighten it
 - converts the deskwed image to grey colors and sharpens the image with an adaptive threshold to mimic a black and white photocopy effect
 
-##Steps
+## Steps
 ![Step 1](step_1.jpg)
 1- Original image
 
