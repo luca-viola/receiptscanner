@@ -39,7 +39,7 @@ largest 4 sides polygon in the image
 7- Black and white and threshold, to emulate a "photocopy effect"
 that enhances text readability
 
-![Step 8](step_7.jpg)
+![Step 8](step_8.jpg)
 8- (Optional) using an ocr such us tesseract on the output
 you can get a very good text back.
 
