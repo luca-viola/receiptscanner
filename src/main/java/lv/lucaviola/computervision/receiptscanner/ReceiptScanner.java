@@ -37,6 +37,7 @@ public class ReceiptScanner
   private static final boolean DEBUG_FLAG = false;
   private static final int RESIZED_PROP_HEIGHT=500;
   private Logger log= Logger.getLogger(Main.class);
+  private static final boolean photocopyEffect=true;
 
   public ReceiptScanner() {}
 
@@ -44,7 +45,7 @@ public class ReceiptScanner
   {
     MatOfPoint realVertices = getTheTargetImageVertices(image);
     Mat warpedImage = new SmartDeskew(realVertices, image).deskew();
-    Mat enhancedImage=adaptiveThreshold(warpedImage);
+    Mat enhancedImage=photocopyEffect==true?adaptiveThreshold(warpedImage):warpedImage;
     return enhancedImage;
   }
 
